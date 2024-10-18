@@ -1,8 +1,9 @@
-## Olá! Eu sou o Fábio Teixeira👋
+## Hello! I'm Fábio Teixeira 👋
 
-- 🔭 Busco trabalhar com Front-End
-- 🌱 Estudando JavaScript
-- 📫 Contate-me no email: fabio.teixeira18@hotmail.com
+- 🔭 I'm looking to work with Front-End
+- 🌱 Studying JavaScript
+- 🖥️ Graduating in Computer Engineering.
+- 📫 Contact me at email: fabio.teixeira18@hotmail.com
 
  <div>
   <a href="https://github.com/FaaF-Eng">
