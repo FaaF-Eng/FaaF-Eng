@@ -32,3 +32,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng)
+
