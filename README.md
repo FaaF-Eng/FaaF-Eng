@@ -7,17 +7,23 @@
 
 
 
-  <!-- GitHub Stats -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 15px ;">
-    <a href="https://github.com/FaaF-Eng">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117" style="border-radius: 10px;" />
-    </a>
-  </div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  <!-- Most Used Languages -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 15px ;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&layout=compact&bg_color=0d1117&icon_color=ffb400&langs_count=4" style="border-radius: 10px;"/>
-  </div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
@@ -41,3 +47,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
+
+
