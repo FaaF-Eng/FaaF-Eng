@@ -1,4 +1,4 @@
-## Hello! I'm Fábio Teixeira 👋
+## Hello World! I'm Fábio Teixeira 👋
 
 - 🔭 I'm looking to work with Front-End
 - 🌱 Studying JavaScript
