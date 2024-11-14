@@ -1,7 +1,7 @@
 ## Hello World! I'm Fábio Teixeira 👋
 
 - 🔭 I'm looking to work with Front-End
-- 🌱 Studying JavaScript
+- 🌱 Studying TypeScript
 - 🖥️ Graduating in Computer Engineering.
 - 📫 Contact me at email: fabio.teixeira18@hotmail.com
 
