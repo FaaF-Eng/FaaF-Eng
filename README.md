@@ -3,7 +3,7 @@
 - 🔭 I'm looking to work with Front-End
 - 🌱 Studying TypeScript
 - 🖥️ Graduating in Computer Engineering.
-- 📫 Contact me at email: fabio.teixeira18@hotmail.com
+- 📫 Contact me at email: faaf26hg@gmail.com
 
 
 
