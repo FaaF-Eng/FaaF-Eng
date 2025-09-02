@@ -6,7 +6,9 @@
 - 🖥️ Graduating in Computer Engineering.
 - 📫 Contact me at email: faaf26hg@gmail.com
 
-
+<div align="center">
+  <img width="1000" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
+</div>
 
 <p>
   <img 
@@ -24,8 +26,11 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<div align="center">
+  <img width="1000" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
+</div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="FaaF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FaaF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="FaaF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
