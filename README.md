@@ -1,4 +1,5 @@
-## Hello World! I'm Fábio Teixeira ☕
+# Hello World! I'm Fábio Teixeira <img height="100px" src="https://cdn.lospec.com/gallery/animated-coffee-bliss-332034.gif" alt="Coffee GIF" height="50">
+
 
 - 🔭 I'm looking to work with Front-End
 - 🌱 Studying TypeScript
