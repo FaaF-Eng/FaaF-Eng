@@ -1,61 +1,62 @@
-# Hello World! I'm Fábio Teixeira <img height="100px" src="https://cdn.lospec.com/gallery/animated-coffee-bliss-332034.gif" alt="Coffee GIF" height="50">
+<h1 align="center">
+  ⚡ Welcome to the Grid ⚡  
+  <br>I'm <span style="color:#ff00ff">Fábio Teixeira</span>
+</h1>
 
-
-- 🔭 I'm looking to work with Front-End
-- 🌱 Studying TypeScript
-- 🖥️ Graduating in Computer Engineering.
-- 📫 Contact me at email: faaf26hg@gmail.com
-
-<div align="center">
-  <img width="1000" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
-</div>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+  <img height="120" src="https://cdn.lospec.com/gallery/animated-coffee-bliss-332034.gif" alt="Neon Coffee GIF" />
 </p>
+
+---
+
+## 🕶 About Me
+- 💻 Front-End Padawan (aiming for **Neon Mastery**)  
+- 🌱 Leveling up with **TypeScript**  
+- 🖥️ Student of **Computer Engineering**  
+- 📡 Reach me at: **faaf26hg@gmail.com**
+
+---
+
 <div align="center">
-  <img width="1000" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
+  <img width="100%" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif" />
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="FaaF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="FaaF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="FaaF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="FaaF-Next" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg">
-  <img align="center" alt="FaaF-Ts" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
-  <img align="center" alt="FaaF-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00fff7&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&layout=compact&theme=radical&title_color=00fff7&text_color=ffffff&bg_color=0d1117" />
+</p>
 
+---
 
+## 🛠 Tech Arsenal
+<p align="center">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="NextJS" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg">
+  <img alt="TypeScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
 
-##
+---
 
-<div>
-  <a href="https://www.instagram.com/fa6io_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:faaf26hg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fábio-teixeira-479919238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.instagram.com/fa6io_oficial/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:faaf26hg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%2300fff7?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
+  <a href="https://www.linkedin.com/in/fábio-teixeira-479919238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300ffea?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+</p>
 
-<picture align="center">
+---
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
 </picture>
-  
-
-
-
-
-
