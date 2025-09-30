@@ -69,7 +69,7 @@ Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções rob
 - **2024** - Analista de Produtos com foco em Sistemas na **Telemática Sistemas Inteligentes**  
 - **2023** - Assistênte de Engenharia na **Hexagon Telecom**  
 - **2022** - Treinee em Engenharia Elétrica **Sauder fornos industriais** 
-- **2021** - Conclusão da graduação em **Eletroeletrônica** 
+- **2021** - Formação técnica em **Eletroeletrônica** 
 
 ---
 
