@@ -1,62 +1,102 @@
-<h1 align="center">
-  ⚡ Welcome to the Grid ⚡  
-  <br>I'm <span style="color:#ff00ff">Fábio Teixeira</span>
-</h1>
+<!-- Título com seu nome -->
+<h1 align="center">👋 Olá, eu sou Fabio</h1>
+<h3 align="center">Analista de Sistemas | Desenvolvedor Front-End | Entusiasta de Tecnologia e Softwares</h3>
 
-<p align="center">
-  <img height="120" src="https://cdn.lospec.com/gallery/animated-coffee-bliss-332034.gif" alt="Neon Coffee GIF" />
+---
+
+## 🌐 Sobre mim
+Sou Analista de Sistemas com foco em Front-End complexo, onde cuido da elaboração, desenvolvimento e integração dos serviços com o Back-End.
+Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções robustas para os problemas mais difíceis da corporação.
+
+- 🔭 Atualmente trabalhando com **JavaScript**  
+- 🌱 Estudando **Engengaria da Computação, TypeScript, Java, arquitetura Limpa**  
+- 💬 Pergunte-me sobre **JavaScript, APIs, FrameWorks, Integrações**  
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/eng-fabio-teixeira/) | [E-mail](mailto:fabio.teixeira.eng@outlook.com)
+
+---
+
+## 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🕶 About Me
-- 💻 Front-End Padawan (aiming for **Neon Mastery**)  
-- 🌱 Leveling up with **TypeScript**  
-- 🖥️ Student of **Computer Engineering**  
-- 📡 Reach me at: **faaf26hg@gmail.com**
-
----
-
-<div align="center">
-  <img width="100%" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif" />
-</div>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00fff7&text_color=ffffff&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&layout=compact&theme=radical&title_color=00fff7&text_color=ffffff&bg_color=0d1117" />
+## 🏗️ Frameworks and Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 Tech Arsenal
-<p align="center">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="NextJS" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg">
-  <img alt="TypeScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## 🗄️ Databases and Cloud Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Connect
-<p align="center">
-  <a href="https://www.instagram.com/fa6io_oficial/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:faaf26hg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%2300fff7?style=for-the-badge&logo=gmail&logoColor=black">
-  </a>
-  <a href="https://www.linkedin.com/in/fábio-teixeira-479919238/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300ffea?style=for-the-badge&logo=linkedin&logoColor=black">
-  </a>
+## 🔗 Data Formats & Protocols
+<p align="left">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FaaF-Eng/FaaF-Eng/output/github-contribution-grid-snake.svg">
-</picture>
+## 🛠️ Software and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🎨 Markup & Styling
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWINDCSS"/>
+</p>
+
+---
+
+## 🗓️ Minha Jornada
+- **2024** - Analista de Produtos com foco em Sistemas na **Telemática Sistemas Inteligentes**  
+- **2023** - Assistênte de Engenharia na **Hexagon Telecom**  
+- **2022** - Treinee em Engenharia Elétrica **Sauder fornos industriais** 
+- **2021** - Conclusão da graduação em **Eletroeletrônica** 
+
+---
+
+## 💻 Minhas Linguagens Mais Usadas
+
+### 📊 Percentual de uso (GitHub)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&layout=compact&theme=tokyonight"/>
+</p>
+
+### 🌟 Linguagens em destaque
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night"/>
+</p>
+
+---
