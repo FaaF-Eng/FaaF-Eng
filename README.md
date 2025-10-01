@@ -34,7 +34,7 @@ Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções rob
 
 ## 🗄️ Databases and Cloud Hosting
 <p align="left">
-  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Express-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
