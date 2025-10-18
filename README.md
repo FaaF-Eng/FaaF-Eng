@@ -1,6 +1,6 @@
 <!-- Título com seu nome -->
 <h1 align="center">👋 Olá, eu sou Fabio</h1>
-<h3 align="center">Analista de Sistemas | Desenvolvedor Front-End | Entusiasta de Tecnologia e Softwares</h3>
+<h3 align="center">Analista de Sistemas | Desenvolvedor Full-Strack | Entusiasta de Tecnologia e Softwares</h3>
 
 ---
 
