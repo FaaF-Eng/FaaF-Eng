@@ -1,26 +1,33 @@
 <!-- Título com seu nome -->
-<h1 align="center">👋 Olá, eu sou Fabio</h1>
-<h3 align="center">Analista de Sistemas | Desenvolvedor Full-Strack | Entusiasta de Tecnologia e Softwares</h3>
+<h1 align="center">👋 Hi there, I'm Fabio Teixeira!</h1>
+<h3 align="center">Systems Analyst | Full-Strack Developer | Technology and Software Enthusiast</h3>
 
 ---
 
-## 🌐 Sobre mim
-Sou Analista de Sistemas com foco em Front-End complexo, onde cuido da elaboração, desenvolvimento e integração dos serviços com o Back-End.
-Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções robustas para os problemas mais difíceis da corporação.
+## 🌐 About me
+I am a Systems Analyst focused on complex Front-End, where I oversee the creation, development, and integration of services with the Back-End.
+Passionate about best practices, I ensure scalability and deliver robust solutions to the corporation's most challenging problems.
 
-- 🔭 Atualmente trabalhando com **JavaScript**  
-- 🌱 Estudando **Engengaria da Computação, TypeScript, Java, arquitetura Limpa**  
-- 💬 Pergunte-me sobre **JavaScript, APIs, FrameWorks, Integrações**  
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/eng-fabio-teixeira/) | [E-mail](mailto:fabio.teixeira.eng@outlook.com)
+- 🔭 Currently working with **JavaScript**
+- 🌱 Studying **Computer Engineering, TypeScript, Java, Clean Architecture**
+- 💬 Ask me about **JavaScript, APIs, Frameworks, Integrations**
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/eng-fabio-teixeira/) | [E-mail](mailto:fabio.teixeira.eng@outlook.com)
 
 ---
 
 ## 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lau-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Lau-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Lau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Lau-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Lau-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img align="center" alt="Lau-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="Lau-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Lau-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Lau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Lau-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+</div>
 
 ---
 
@@ -66,7 +73,7 @@ Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções rob
 
 ---
 
-## 🗓️ Minha Jornada
+## 🗓️ My Journey
 - **2024** - Analista de Produtos com foco em Sistemas na **Telemática Sistemas Inteligentes**  
 - **2023** - Assistênte de Engenharia na **Hexagon Telecom**  
 - **2022** - Treinee em Engenharia Elétrica **Sauder fornos industriais** 
@@ -74,14 +81,14 @@ Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções rob
 
 ---
 
-## 💻 Minhas Linguagens Mais Usadas
+## 💻 My Most Used Languages
 
-### 📊 Percentual de uso (GitHub)
+### 📊 Percentage of usage (GitHub)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&layout=compact&theme=tokyonight"/>
 </p>
 
-### 🌟 Linguagens em destaque
+### 🌟 Languages ​​in focus
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -89,7 +96,7 @@ Apaixonado por boas práticas, garanto a escalabilidade e entrego soluções rob
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
