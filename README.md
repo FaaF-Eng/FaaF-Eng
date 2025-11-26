@@ -4,14 +4,14 @@
 
 ---
 
-## 🌐 About me
+## 👨‍💻 About me
 I am a Systems Analyst focused on complex Front-End, where I oversee the creation, development, and integration of services with the Back-End.
 Passionate about best practices, I ensure scalability and deliver robust solutions to the corporation's most challenging problems.
 
-- 🔭 Currently working with **JavaScript**
-- 🌱 Studying **Computer Engineering, TypeScript, Java, Clean Architecture**
-- 💬 Ask me about **JavaScript, APIs, Frameworks, Integrations**
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/eng-fabio-teixeira/) | [E-mail](mailto:fabio.teixeira.eng@outlook.com)
+- 💻 Currently working with **JavaScript**
+- 🚀 Studying **Computer Engineering, TypeScript, Java, Clean Architecture**
+- ⚡ Ask me about **JavaScript, APIs, Frameworks, Integrations**
+- ✉️ Contact: [LinkedIn](https://www.linkedin.com/in/eng-fabio-teixeira/) | [E-mail](mailto:fabio.teixeira.eng@outlook.com)
 
 ---
 
@@ -31,10 +31,25 @@ Passionate about best practices, I ensure scalability and deliver robust solutio
 
 ---
 
-## 🏗️ Frameworks and Libraries
+## 🎨 Frontend Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+</p>
+
+---
+
+## 🔗 Backend, APIs & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
@@ -43,13 +58,7 @@ Passionate about best practices, I ensure scalability and deliver robust solutio
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Express-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
----
-
-## 🔗 Data Formats & Protocols
-<p align="left">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ---
@@ -60,15 +69,6 @@ Passionate about best practices, I ensure scalability and deliver robust solutio
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-## 🎨 Markup & Styling
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWINDCSS"/>
 </p>
 
 ---
