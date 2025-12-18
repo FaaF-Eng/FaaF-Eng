@@ -100,9 +100,9 @@ Passionate about best practices, I ensure scalability and deliver robust solutio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night"/>
 </p>
