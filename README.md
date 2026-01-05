@@ -93,7 +93,7 @@ const fabio = {
 
 ---
 
-## 💻 My Most Used Languages
+<!--## 💻 My Most Used Languages
 
 ### 📊 Percentage of usage (GitHub)
 <p align="center">
@@ -104,8 +104,7 @@ const fabio = {
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
+</p>-->
 ---
 
 ## 📊 GitHub Stats
