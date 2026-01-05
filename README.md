@@ -1,17 +1,29 @@
-<!-- Título com seu nome -->
+  <!-- Título com seu nome -->
 <h1 align="center">👋 Hi there, I'm Fabio Teixeira!</h1>
 <h3 align="center">Systems Analyst | Full-Strack Developer | Technology and Software Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About me
-I am a Systems Analyst focused on complex Front-End, where I oversee the creation, development, and integration of services with the Back-End.
-Passionate about best practices, I ensure scalability and deliver robust solutions to the corporation's most challenging problems.
 
-- 💻 Currently working with **JavaScript**
-- 🚀 Studying **Computer Engineering, TypeScript, Java, Clean Architecture**
-- ⚡ Ask me about **JavaScript, APIs, Frameworks, Integrations**
-- ✉️ Contact: [LinkedIn](https://www.linkedin.com/in/eng-fabio-teixeira/) | [E-mail](mailto:fabio.teixeira.eng@outlook.com)
+```javascript
+const fabio = {
+  role: ["Computer Engineering Student", "Systems Analyst"],
+
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java"],
+
+  tools: ["Node.js", "Next.js", "React", "Git"],
+
+  architecture: ["clean code", "component-based architecture"],
+
+  challenge: "Continuously improving my skills as a developer, focusing on React, TypeScript and real-world projects."
+}
+```
+✉️ Contact:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-fabio-teixeira/)
+[![E-mail](https://img.shields.io/badge/E--mail-fabio.teixeira.eng%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fabio.teixeira.eng@outlook.com)
+
 
 ---
 
@@ -97,9 +109,9 @@ Passionate about best practices, I ensure scalability and deliver robust solutio
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
 </p> -->
