@@ -19,10 +19,21 @@ const fabio = {
   challenge: "Continuously improving my skills as a developer, focusing on React, TypeScript and real-world projects."
 }
 ```
-✉️ Contact:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-fabio-teixeira/)
-[![E-mail](https://img.shields.io/badge/E--mail-fabio.teixeira.eng%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fabio.teixeira.eng@outlook.com)
+## ✉️ Contact
+<p align="left">
+  <a href="SEU_LINK_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ff4d4f?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/fabio.teixeira.eng?igsh=YWF5OWo2dGUwdTlz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff4d4f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eng-fabio-teixeira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff4d4f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+<a href="mailto:fabio.teixeira.eng@outlook.com">
+  <img src="https://img.shields.io/badge/Email-ff4d4f?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+</p>
 
 
 ---
