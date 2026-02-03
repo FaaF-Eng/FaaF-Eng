@@ -1,6 +1,5 @@
-  <!-- Título com seu nome -->
-<h1 align="center">👋 Hi there, I'm Fabio Teixeira!</h1>
-<h3 align="center">Systems Analyst | Full-Strack Developer | Technology and Software Enthusiast</h3>
+<h1 align="center">Hi there, I'm Fabio Teixeira!</h1>
+<h3 align="center">Systems Analyst | FrontEnd Developer | Technology and Software Enthusiast</h3>
 
 ---
 
