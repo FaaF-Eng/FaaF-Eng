@@ -4,7 +4,16 @@
   <h3>Systems Analyst | FrontEnd Developer | Technology and Software Enthusiast</h3>
 </div>
 
-## ☕ About me
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p> -->
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
+</p> -->
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night&color=ff4d4f&title_color=ff4d4f&area_color=ff4d4f&line=ff4d4f&point=ff4d4f" />
+</p>
+
 
 ```javascript
 const fabio = {
@@ -93,6 +102,7 @@ const fabio = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
 ---
 
 ## 🗓️ My Journey
@@ -116,15 +126,3 @@ const fabio = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>-->
 
-## 📊 GitHub Stats
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p> -->
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
-</p> -->
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night&color=ff4d4f&title_color=ff4d4f&area_color=ff4d4f&line=ff4d4f&point=ff4d4f" />
-</p>
-
----
