@@ -4,7 +4,7 @@
   <h3>Systems Analyst | FrontEnd Developer | Technology and Software Enthusiast</h3>
 </div>
 
-## 👨‍💻 About me
+## ☕ About me
 
 ```javascript
 const fabio = {
