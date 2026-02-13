@@ -124,7 +124,7 @@ const fabio = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
 </p> -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night&color=ff4d4f&title_color=ff4d4f&area_color=ff4d4f&line=ff4d4f&point=ff4d4f" />
 </p>
 
 ---
