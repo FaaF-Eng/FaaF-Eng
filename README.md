@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Fabio Teixeira!</h1>
-<h3 align="center">Systems Analyst | FrontEnd Developer | Technology and Software Enthusiast</h3>
-
----
+<div align="center">
+  <img src="fabio.png" alt="Hi There, I'm Fabio Teixeira" width="500">
+  <br><br>
+  <h3>Systems Analyst | FrontEnd Developer | Technology and Software Enthusiast</h3>
+</div>
 
 ## 👨‍💻 About me
 
