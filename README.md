@@ -1,7 +1,7 @@
 <div align="center">
   <img src="fabio.png" alt="Hi There, I'm Fabio Teixeira" width="500">
   <br><br>
-  <h3>Systems Analyst | FrontEnd Developer | Technology and Software Enthusiast</h3>
+  <h3>Systems Analyst | FullStack Developer | Technology and Software Enthusiast</h3>
 </div>
 
 <!-- <p align="center">
@@ -19,7 +19,7 @@
 const fabio = {
   role: ["Computer Engineering Student", "Systems Analyst"],
 
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "SQL"],
 
   tools: ["Node.js", "Next.js", "React", "Git"],
 
