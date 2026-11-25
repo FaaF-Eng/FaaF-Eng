@@ -1,128 +1,71 @@
 <div align="center">
-  <img src="fabio.png" alt="Hi There, I'm Fabio Teixeira" width="500">
-  <br><br>
-  <h3>Systems Analyst | FullStack Developer | Technology and Software Enthusiast</h3>
+
+# Fabio Teixeira
+
+### Senior Front-end Developer · React · Next.js · TypeScript · Angular
+
+Building scalable digital products where interface architecture, performance, and business rules meet.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D4F?style=for-the-badge&logo=vercel&logoColor=white)](https://fabio-teixeira-fullstack.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-fabio-teixeira/)
+[![Email](https://img.shields.io/badge/Email-FF4D4F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:fabio.teixeira.eng@outlook.com)
+
 </div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaaF-Eng&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p> -->
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaaF-Eng&theme=tokyonight" alt="GitHub Streak"/>
-</p> -->
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaaF-Eng&theme=tokyo-night&color=ff4d4f&title_color=ff4d4f&area_color=ff4d4f&line=ff4d4f&point=ff4d4f" />
-</p>
+---
 
+## Building reliable front-end systems
 
-```javascript
-const fabio = {
-  role: ["Computer Engineering Student", "Systems Analyst"],
+I am a Brazilian Front-end Developer with Full Stack experience, focused on turning complex business rules into clear, fast, and maintainable digital products.
 
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "SQL"],
+My recent work includes enterprise planning interfaces with multi-country flows, role-based access, BFF/API integrations, large data tables, server-side filters, and performance-focused UI architecture.
 
-  tools: ["Node.js", "Next.js", "React", "Git"],
-
-  architecture: ["clean code", "component-based architecture"],
-
-  challenge: "Continuously improving my skills as a developer, focusing on React, TypeScript and real-world projects."
-}
+```ts
+const engineeringFocus = {
+  frontend: ["React", "Next.js", "TypeScript", "Angular"],
+  product: ["Design Systems", "Complex Workflows", "Accessibility", "i18n"],
+  integration: ["BFF", "REST APIs", "OpenAPI", "RBAC"],
+  quality: ["Code Review", "Testing", "SonarQube", "Secure Delivery"]
+};
 ```
-## ✉️ Contact
-<p align="left">
-  <a href="SEU_LINK_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ff4d4f?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/fabio.teixeira.eng?igsh=YWF5OWo2dGUwdTlz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff4d4f?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eng-fabio-teixeira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff4d4f?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-<a href="mailto:fabio.teixeira.eng@outlook.com">
-  <img src="https://img.shields.io/badge/Email-ff4d4f?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-</a>
-</p>
 
+## Core expertise
 
----
-## 💻 Linguagens de Programação
+| Area | Technologies & practices |
+| --- | --- |
+| **Front-end** | React 18/19, Next.js App Router, Angular, TypeScript, JavaScript, HTML5, CSS3, CSS Modules, Tailwind CSS, Bootstrap, Vite |
+| **UI at scale** | Component architecture, Design Systems, React Window, virtualized tables, server-side filtering, pagination, responsive interfaces, i18n, accessibility |
+| **Backend & integration** | Node.js, Fastify, Express, BFF, REST APIs, GraphQL, OpenAPI/Swagger, Nginx, secure cookies, authentication and RBAC |
+| **Data & platform** | ScyllaDB, SQL, MySQL, SQLite, AWS S3, Lambda, EKS, microservices, environment configuration |
+| **Quality & delivery** | Git, GitHub, signed commits, Pull Requests, Git worktrees, Jest, React Testing Library, ESLint, Prettier, SonarQube, Checkmarx, CI/CD |
 
-<p align="left">
-  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="SQLite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</p>
+## Selected work
 
----
+| Project | What I built | Highlights |
+| --- | --- | --- |
+| **Enterprise Planning Platform** | Corporate planning front-end for complex commercial workflows. | Multi-country UX, permissions, BFF integration, virtualized tables, block pagination and data-intensive flows. |
+| **Virtual Engineering Product Simulator** | Interactive web simulator for product demonstrations and technical training. | High-performance interface, equipment navigation flows and a practical sales enablement experience. |
+| **[Sauder Equipamentos](https://github.com/FaaF-Eng/Sauder-website)** | Institutional website for an industrial thermal engineering company. | Responsive UI, clear information architecture and an industrial visual system. |
+| **Hollow Protocol** | Browser horror-game prototype built around interaction and atmosphere. | Vanilla HTML/CSS/JavaScript, panoramic navigation, state-driven interface and audio interaction. |
 
-## 🎨 Frontend (Frameworks, Bibliotecas e Estilização)
+> Some enterprise work is private or protected by confidentiality. The public projects here are the best place to explore my implementation style.
 
-<p align="left">
-  <img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="Vue.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img alt="Electron" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img alt="Vite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-</p>
+## How I work
 
----
+- Translate product requirements into maintainable technical decisions.
+- Keep components focused, typed, testable, and easy to evolve.
+- Treat performance, loading, empty, and error states as part of the product.
+- Collaborate closely with design, product, backend, and quality teams.
+- Use AI-assisted engineering responsibly, with human review and code-quality safeguards.
 
-## 🔗 Backend, APIs & Integrations
+## Beyond the interface
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-</p>
+I also work with **Python**, **Java**, **MQTT**, **TCP/IP**, IoT integrations, Postman, Figma, Claude Code, GitHub Copilot, and Cursor.
 
----
+<div align="center">
 
-## 🗄️ Databases and Cloud Hosting
+**Open to meaningful product challenges and engineering conversations.**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Express-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
+<sub>São Paulo, Brazil</sub>
 
----
-
-## 🛠️ Software and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-## 🗓️ My Journey
-- **2024** - Analista de Produtos com foco em Sistemas na **Telemática Sistemas Inteligentes**  
-- **2023** - Assistênte de Engenharia na **Hexagon Telecom**  
-- **2022** - Treinee em Engenharia Elétrica **Sauder fornos industriais** 
-- **2021** - Formação técnica em **Eletroeletrônica** 
-
----
-
-<!--## 💻 My Most Used Languages
-
-### 📊 Percentage of usage (GitHub)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaF-Eng&layout=compact&theme=tokyonight"/>
-</p>
-
-### 🌟 Languages ​​in focus
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>-->
-
+</div>
